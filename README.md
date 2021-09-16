@@ -1,2 +1,3 @@
 # hello-world
-first try
+It shall be the start of a journey
+
